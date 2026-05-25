@@ -1,5 +1,9 @@
-# Fase-5
-problema 3 
+#fecha: 26/05/2026
+#proyecto: Fase-5 POA
+#Nombre: Freddy Leonardo Pinzon Estupiñan 
+#Codigo: 213022
+#Problema N° 3
+
 # Matriz de artículos:
 # [Código, Nombre, Stock Actual, Stock Mínimo]
 

@@ -1,6 +1,7 @@
 #fecha: 26/05/2026
 #proyecto: Fase-5 POA
 #Nombre: Freddy Leonardo Pinzon Estupiñan 
+#C.C: 1001294736
 #Codigo: 213022
 #Problema N° 3
 
